@@ -1,0 +1,73 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 1rem;
+    text-align: center;
+}
+
+.search-container {
+    margin-top: 1rem;
+}
+
+#searchInput {
+    padding: 0.5rem;
+    width: 80%;
+    max-width: 400px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#schedule {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 1rem;
+}
+
+.schedule-item {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 1rem;
+    padding: 1rem;
+}
+
+.schedule-item h2 {
+    margin-top: 0;
+}
+
+.schedule-item .time {
+    font-weight: bold;
+    color: #333;
+}
+
+.schedule-item .speakers {
+    font-style: italic;
+    color: #555;
+}
+
+.schedule-item .categories {
+    margin-top: 0.5rem;
+}
+
+.schedule-item .category {
+    display: inline-block;
+    background-color: #eee;
+    color: #333;
+    padding: 0.25rem 0.5rem;
+    border-radius: 3px;
+    margin-right: 0.5rem;
+    font-size: 0.9rem;
+}
+
+.break {
+    background-color: #e0e0e0;
+    text-align: center;
+    font-weight: bold;
+}

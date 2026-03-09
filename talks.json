@@ -1,0 +1,46 @@
+{
+  "talks": [
+    {
+      "title": "Placeholder Talk 1",
+      "speakers": ["Speaker A"],
+      "category": ["Category 1", "Category 2"],
+      "duration": 60,
+      "description": "This is a placeholder description for the first talk."
+    },
+    {
+      "title": "Placeholder Talk 2",
+      "speakers": ["Speaker B"],
+      "category": ["Category 3", "Category 4"],
+      "duration": 60,
+      "description": "This is a placeholder description for the second talk."
+    },
+    {
+      "title": "Placeholder Talk 3",
+      "speakers": ["Speaker C", "Speaker D"],
+      "category": ["Category 1", "Category 3"],
+      "duration": 60,
+      "description": "This is a placeholder description for the third talk."
+    },
+    {
+      "title": "Placeholder Talk 4",
+      "speakers": ["Speaker E"],
+      "category": ["Category 2", "Category 4"],
+      "duration": 60,
+      "description": "This is a placeholder description for the fourth talk."
+    },
+    {
+      "title": "Placeholder Talk 5",
+      "speakers": ["Speaker F"],
+      "category": ["Category 1", "Category 4"],
+      "duration": 60,
+      "description": "This is a placeholder description for the fifth talk."
+    },
+    {
+      "title": "Placeholder Talk 6",
+      "speakers": ["Speaker G", "Speaker H"],
+      "category": ["Category 2", "Category 3"],
+      "duration": 60,
+      "description": "This is a placeholder description for the sixth talk."
+    }
+  ]
+}
